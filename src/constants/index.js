@@ -305,7 +305,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "socket rogramming",
+          name: "socket Programming",
           color: "pink-text-gradient",
         },
       ],
